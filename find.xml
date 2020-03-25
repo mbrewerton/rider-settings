@@ -1,0 +1,30 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'Darwin'" />
+    <option name="defaultScopeName" value="Project 'Darwin'" />
+    <option name="SEARCH_SCOPE" value="Project 'Darwin'" />
+    <option name="FILE_MASK" value="*.html,*.js" />
+    <mask>*.properties</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>site.resx</mask>
+    <mask>*.js, *.html</mask>
+    <mask>*.CS</mask>
+    <mask>*.scss</mask>
+    <mask>*.html,*.ts</mask>
+    <mask>*.config</mask>
+    <mask>*.js,*.html</mask>
+    <mask>*.cs</mask>
+    <mask>*.js</mask>
+    <mask>*.html</mask>
+    <mask>*.ts</mask>
+    <mask>*.resx</mask>
+    <mask>*.resx</mask>
+    <mask>*.html</mask>
+    <mask>*.html,*.js</mask>
+  </component>
+</application>
