@@ -8,6 +8,7 @@
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
   </component>
   <component name="DefaultFont">
+    <option name="FONT_SIZE" value="11" />
     <option name="FONT_FAMILY" value="JetBrains Mono" />
   </component>
   <component name="EditorSettings">
