@@ -34,6 +34,14 @@
     <entry key="ide.tooltip.showAllSeverities" value="true" />
     <entry key="show.diff.preview.as.editor.tab.with.single.click" value="true" />
     <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
+    <entry key="show.log.as.editor.tab" value="false" />
+  </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
   </component>
   <component name="StatusBar">
     <option name="widgets">

@@ -1,8 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="darkTitleBar" value="true" />
-    <option name="highlightColorEnabled" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -12,9 +16,9 @@
     <option name="highlightThickness" value="1" />
     <option name="tabsHeight" value="14" />
     <option name="accentColor" value="79cb60" />
-    <option name="selectedTheme" value="GITHUB" />
+    <option name="selectedTheme" value="LIGHTER" />
     <option name="userId" value="6bfdcba2:16d5d61b9f7:-8000" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="5.2.0" />
     <option name="tabHighlightPosition" value="Top" />
   </component>
 </application>
