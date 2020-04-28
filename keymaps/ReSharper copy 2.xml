@@ -1,4 +1,7 @@
 <keymap version="1" name="ReSharper copy 2" parent="ReSharper">
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 9" />
+  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt 3" />
     <keyboard-shortcut first-keystroke="alt 3" />
@@ -14,6 +17,9 @@
   <action id="Github.Create.Pull.Request">
     <keyboard-shortcut first-keystroke="shift alt p" />
   </action>
+  <action id="Github.View.Pull.Request">
+    <keyboard-shortcut first-keystroke="shift ctrl alt 9" />
+  </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
@@ -21,6 +27,12 @@
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
