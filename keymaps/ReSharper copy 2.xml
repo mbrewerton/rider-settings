@@ -11,6 +11,9 @@
     <keyboard-shortcut first-keystroke="ctrl f7" />
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id="Github.Create.Pull.Request">
+    <keyboard-shortcut first-keystroke="shift alt p" />
+  </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
@@ -38,4 +41,5 @@
   <action id="XDebugger.SwitchWatchesInVariables">
     <keyboard-shortcut first-keystroke="shift number_sign" />
   </action>
+  <action id="hg4idea.QPushAction" />
 </keymap>
