@@ -1,0 +1,17 @@
+<application>
+  <component name="CodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value version="173">
+        <option name="RIGHT_MARGIN" value="240" />
+        <JSCodeStyleSettings version="0">
+          <option name="SPACES_WITHIN_IMPORTS" value="true" />
+        </JSCodeStyleSettings>
+        <TypeScriptCodeStyleSettings version="0">
+          <option name="USE_DOUBLE_QUOTES" value="false" />
+          <option name="FORCE_QUOTE_STYlE" value="true" />
+        </TypeScriptCodeStyleSettings>
+      </value>
+    </option>
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default" />
+  </component>
+</application>
