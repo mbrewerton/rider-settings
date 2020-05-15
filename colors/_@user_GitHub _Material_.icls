@@ -4,11 +4,11 @@
     <property name="created">2020-03-31T15:40:05</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-04-08T11:51:30</property>
+    <property name="modified">2020-05-14T17:07:21</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="11" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
@@ -678,6 +678,9 @@
         <option name="FOREGROUND" value="22863a" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="22863a" />
@@ -869,12 +872,12 @@
       </value>
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value />
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="5fc4" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
@@ -1960,9 +1963,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="99ccbb" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="e36209" />
-        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
