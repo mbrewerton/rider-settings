@@ -23,9 +23,9 @@
     <mask>*.js</mask>
     <mask>*.html,*.js</mask>
     <mask>*.html</mask>
-    <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>*.cs</mask>
     <mask>*.config</mask>
+    <mask>*.html</mask>
   </component>
 </application>
