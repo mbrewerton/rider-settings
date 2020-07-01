@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="sub group translations" />
-    <option name="defaultScopeName" value="sub group translations" />
-    <option name="SEARCH_SCOPE" value="sub group translations" />
+    <option name="customScope" value="Selected Files And Folders" />
+    <option name="defaultScopeName" value="Selected Files And Folders" />
+    <option name="SEARCH_SCOPE" value="Selected Files And Folders" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
