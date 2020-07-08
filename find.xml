@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'API.Internationalisation'" />
-    <option name="defaultScopeName" value="Project 'API.Internationalisation'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'API.Internationalisation'" />
+    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -29,7 +30,7 @@
     <mask>*.html</mask>
     <mask>*.cs</mask>
     <mask>*.html</mask>
-    <mask>*.ts</mask>
     <mask>*.cshtml</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
