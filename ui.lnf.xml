@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="15" />
     <option name="MAX_LOOKUP_WIDTH2" value="1000" />
+    <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="showTreeIndentGuides" value="true" />
     <option name="SORT_TABS_ALPHABETICALLY" value="true" />
