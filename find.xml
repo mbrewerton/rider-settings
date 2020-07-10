@@ -22,7 +22,6 @@
     <mask>*.fr.resx</mask>
     <mask>*.js</mask>
     <mask>*.html,*.js</mask>
-    <mask>*.cs</mask>
     <mask>*.config</mask>
     <mask>*.html</mask>
     <mask>*.cs</mask>
@@ -31,5 +30,6 @@
     <mask>*.ts</mask>
     <mask>*.resx</mask>
     <mask>*.resx</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
