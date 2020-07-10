@@ -4,10 +4,10 @@
     <property name="created">2020-07-09T09:22:38</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.1.0.0.0</property>
-    <property name="modified">2020-07-09T16:37:46</property>
+    <property name="modified">2020-07-10T16:45:48</property>
     <property name="originalScheme">Arc Dark</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
@@ -2656,6 +2656,13 @@
     <option name="MESSAGE_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="c4b3a3" />
+      </value>
+    </option>
+    <option name="MT_DIRECTORIES">
+      <value>
+        <option name="FOREGROUND" value="d3dae3" />
+        <option name="BACKGROUND" value="262b33" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="NG.EXPANSION_FORM">
