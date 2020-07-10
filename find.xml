@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.resx" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -21,7 +22,6 @@
     <mask>*.nl.resx</mask>
     <mask>*.fr.resx</mask>
     <mask>*.resx</mask>
-    <mask>*.resx</mask>
     <mask>*.js</mask>
     <mask>*.html,*.js</mask>
     <mask>*.cs</mask>
@@ -31,5 +31,6 @@
     <mask>*.html</mask>
     <mask>*.cshtml</mask>
     <mask>*.ts</mask>
+    <mask>*.resx</mask>
   </component>
 </application>
