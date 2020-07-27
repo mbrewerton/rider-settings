@@ -1,0 +1,16 @@
+<toolSet name="Database Tools">
+  <tool name="Update Database - Local" description="Updates the local Wishlist database." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="powershell.exe" />
+      <option name="PARAMETERS" value="set ASPNETCORE_ENVIRONMENT=Development; dotnet ef database update -p ../API" />
+      <option name="WORKING_DIRECTORY" value="E:/MattBrewerton/Wishlist/WishlistWeb" />
+    </exec>
+  </tool>
+  <tool name="Update Database - Staging" description="Updates the local Wishlist database." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="powershell.exe" />
+      <option name="PARAMETERS" value="set ASPNETCORE_ENVIRONMENT=Staging; dotnet ef database update -p ../API" />
+      <option name="WORKING_DIRECTORY" value="E:/MattBrewerton/Wishlist/WishlistWeb" />
+    </exec>
+  </tool>
+</toolSet>
