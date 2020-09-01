@@ -4,12 +4,12 @@
   </action>
   <action id="CloneCaretAboveWithVirtualSpace" />
   <action id="CloneCaretBelowWithVirtualSpace" />
-  <action id="MoveStatementDown">
-    <keyboard-shortcut first-keystroke="shift ctrl alt down" />
+  <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift alt down" />
+    <keyboard-shortcut first-keystroke="alt down" />
   </action>
-  <action id="MoveStatementUp">
-    <keyboard-shortcut first-keystroke="shift ctrl alt up" />
+  <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="alt up" />
   </action>
 </keymap>
