@@ -2,6 +2,13 @@
   <action id="ActivateCommitToolWindow">
     <keyboard-shortcut first-keystroke="shift alt 9" />
   </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt 3" />
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+  </action>
   <action id="CloneCaretAboveWithVirtualSpace" />
   <action id="CloneCaretBelowWithVirtualSpace" />
   <action id="MoveLineDown">
