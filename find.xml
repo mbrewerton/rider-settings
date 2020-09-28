@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'Beagle'" />
+    <option name="defaultScopeName" value="Project 'Beagle'" />
+    <option name="SEARCH_SCOPE" value="Project 'Beagle'" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -25,11 +25,11 @@
     <mask>*.resx</mask>
     <mask>*.cs</mask>
     <mask>*.html,*.cshtml</mask>
-    <mask>*.html</mask>
-    <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
+    <mask>*.html</mask>
   </component>
 </application>
