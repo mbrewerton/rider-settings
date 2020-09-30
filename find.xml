@@ -26,10 +26,10 @@
     <mask>*.cs</mask>
     <mask>*.html,*.cshtml</mask>
     <mask>*.js</mask>
-    <mask>*.json</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.html</mask>
+    <mask>*.json</mask>
   </component>
 </application>
