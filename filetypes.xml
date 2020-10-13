@@ -1,23 +1,23 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".nupkg.metadata" type="PLAIN_TEXT" />
       <mapping pattern="my-forms" type="PLAIN_TEXT" />
-      <mapping pattern=".suo" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping ext="xdt" type="PLAIN_TEXT" />
+      <mapping pattern=".nupkg.metadata" type="PLAIN_TEXT" />
+      <mapping pattern=".suo" type="PLAIN_TEXT" />
       <mapping ext="pp" type="PLAIN_TEXT" />
+      <mapping ext="xdt" type="PLAIN_TEXT" />
       <mapping ext="transform" type="PLAIN_TEXT" />
       <mapping ext="rsp" type="PLAIN_TEXT" />
+      <removed_mapping ext="swift" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="php5" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="phtml" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="php4" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="php" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="groovy" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="swift" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="php5" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="Resources" />
       <mapping pattern="config" type="XML" />
       <removed_mapping ext="phtml" approved="true" type="PLAIN_TEXT" />
