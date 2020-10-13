@@ -5,8 +5,8 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".nupkg.metadata" type="PLAIN_TEXT" />
       <mapping pattern=".suo" type="PLAIN_TEXT" />
-      <mapping ext="job" type="PLAIN_TEXT" />
       <mapping ext="pp" type="PLAIN_TEXT" />
+      <mapping ext="job" type="PLAIN_TEXT" />
       <mapping ext="xdt" type="PLAIN_TEXT" />
       <mapping ext="transform" type="PLAIN_TEXT" />
       <mapping ext="rsp" type="PLAIN_TEXT" />
