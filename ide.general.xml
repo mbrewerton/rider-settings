@@ -47,6 +47,7 @@
     <option name="widgets">
       <map>
         <entry key="Memory" value="true" />
+        <entry key="RiderMemory" value="true" />
       </map>
     </option>
   </component>
