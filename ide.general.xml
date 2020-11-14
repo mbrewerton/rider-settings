@@ -33,6 +33,13 @@
     <entry key="ide.tooltip.showAllSeverities" value="true" />
     <entry key="show.diff.preview.as.editor.tab.with.single.click" value="true" />
     <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
+    <entry key="light.edit.file.open.enabled" value="false" />
+    <entry key="ide.settings.move.mouse.on.default.button" value="true" />
+    <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
+    <entry key="ide.borderless.tab.caption.in.title" value="false" />
+    <entry key="ide.borderless.title.version" value="false" />
+    <entry key="ide.debug.in.title" value="true" />
+    <entry key="rdclient.asyncActions" value="false" />
     <entry key="show.log.as.editor.tab" value="false" />
     <entry key="ide.settings.move.mouse.on.default.button" value="true" />
     <entry key="ide.borderless.tab.caption.in.title" value="false" />
@@ -44,7 +51,6 @@
     <option name="widgets">
       <map>
         <entry key="Memory" value="true" />
-      </map>
-    </option>
+        <entry key="RiderMemory" value="true" />
   </component>
 </application>

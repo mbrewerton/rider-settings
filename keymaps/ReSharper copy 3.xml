@@ -1,0 +1,22 @@
+<keymap version="1" name="ReSharper copy 3" parent="ReSharper">
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 9" />
+  </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt 3" />
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+  </action>
+  <action id="CloneCaretAboveWithVirtualSpace" />
+  <action id="CloneCaretBelowWithVirtualSpace" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+</keymap>

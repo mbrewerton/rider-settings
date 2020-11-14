@@ -5,6 +5,7 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".nupkg.metadata" type="PLAIN_TEXT" />
       <mapping pattern=".suo" type="PLAIN_TEXT" />
+      <mapping ext="job" type="PLAIN_TEXT" />
       <mapping ext="pp" type="PLAIN_TEXT" />
       <mapping ext="xdt" type="PLAIN_TEXT" />
       <mapping ext="transform" type="PLAIN_TEXT" />
@@ -20,6 +21,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="Resources" />
       <mapping pattern="config" type="XML" />
+      <mapping ext="publishsettings" type="XML" />
       <removed_mapping ext="phtml" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="groovy" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
