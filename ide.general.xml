@@ -9,5 +9,6 @@
     <entry key="ide.svg.icon" value="true" />
     <entry key="ide.win.frame.decoration" value="true" />
     <entry key="ide.tooltip.showAllSeverities" value="true" />
+    <entry key="ide.balloon.shadow.size" value="0" />
   </component>
 </application>
