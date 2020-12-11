@@ -3,7 +3,6 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <option name="FILE_MASK" value="*.cs" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -21,8 +20,6 @@
     <mask>*.html,*.js</mask>
     <mask>*.config</mask>
     <mask>*.cshtml</mask>
-    <mask>*.resx</mask>
-    <mask>*.resx</mask>
     <mask>*.html,*.cshtml</mask>
     <mask>*.json</mask>
     <mask>*.scss</mask>
@@ -32,5 +29,7 @@
     <mask>*.html</mask>
     <mask>*.cs</mask>
     <mask>*.cs</mask>
+    <mask>*.resx</mask>
+    <mask>*.resx</mask>
   </component>
 </application>
