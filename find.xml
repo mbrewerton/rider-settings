@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -23,7 +22,6 @@
     <mask>*.config</mask>
     <mask>*.cshtml</mask>
     <mask>*.html,*.cshtml</mask>
-    <mask>*.json</mask>
     <mask>*.scss</mask>
     <mask>*.resx</mask>
     <mask>*.resx</mask>
@@ -34,5 +32,6 @@
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*.json</mask>
   </component>
 </application>
