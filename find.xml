@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.resx" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -24,8 +23,6 @@
     <mask>*.cshtml</mask>
     <mask>*.html,*.cshtml</mask>
     <mask>*.scss</mask>
-    <mask>*.resx</mask>
-    <mask>*.resx</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.json</mask>
@@ -34,5 +31,7 @@
     <mask>*.js</mask>
     <mask>*.cs</mask>
     <mask>*.cs</mask>
+    <mask>*.resx</mask>
+    <mask>*.resx</mask>
   </component>
 </application>
