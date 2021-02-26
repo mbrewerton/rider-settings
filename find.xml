@@ -27,10 +27,10 @@
     <mask>*.html</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
-    <mask>*.cs</mask>
-    <mask>*.cs</mask>
-    <mask>*.resx</mask>
     <mask>*.scss</mask>
     <mask>*.resx</mask>
+    <mask>*.cs</mask>
+    <mask>*.resx</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
