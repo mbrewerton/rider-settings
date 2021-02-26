@@ -22,7 +22,6 @@
     <mask>*.cshtml</mask>
     <mask>*.html,*.cshtml</mask>
     <mask>*.scss</mask>
-    <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.json</mask>
     <mask>*.html</mask>
@@ -31,6 +30,7 @@
     <mask>*.cs</mask>
     <mask>*.cs</mask>
     <mask>*.resx</mask>
+    <mask>*.scss</mask>
     <mask>*.resx</mask>
   </component>
 </application>
