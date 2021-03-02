@@ -3,7 +3,6 @@
     <option name="customScope" value="Project 'Beagle'" />
     <option name="defaultScopeName" value="Project 'Beagle'" />
     <option name="SEARCH_SCOPE" value="Project 'Beagle'" />
-    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -25,13 +24,13 @@
     <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.json</mask>
-    <mask>*.html</mask>
-    <mask>*.html</mask>
     <mask>*.scss</mask>
     <mask>*.resx</mask>
     <mask>*.resx</mask>
     <mask>*.cs</mask>
     <mask>*.cs</mask>
     <mask>*.js</mask>
+    <mask>*.html</mask>
+    <mask>*.html</mask>
   </component>
 </application>
