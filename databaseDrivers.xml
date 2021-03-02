@@ -6,6 +6,12 @@
     <driver id="clickhouse">
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="couchbase_query">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="db2.11">
+      <option name="auto-sync" value="false" />
+    </driver>
     <driver id="db2">
       <option name="auto-sync" value="false" />
     </driver>
@@ -57,7 +63,7 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="azure.ms">
-      <artifact id="SQL Server" name="SQL Server" use="true" version="8.2.2" />
+      <artifact id="SQL Server" name="SQL Server" use="true" version="9.2.0" />
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
       <option name="auto-commit" value="true" />
