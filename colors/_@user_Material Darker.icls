@@ -4,17 +4,17 @@
     <property name="created">2021-03-02T17:28:08</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2021-03-05T16:56:11</property>
+    <property name="modified">2021-03-05T19:45:34</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="10" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="10" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
