@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'EmailTemplates'" />
-    <option name="defaultScopeName" value="Project 'EmailTemplates'" />
-    <option name="SEARCH_SCOPE" value="Project 'EmailTemplates'" />
-    <option name="FILE_MASK" value="*.resx" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -28,10 +27,10 @@
     <mask>*.scss</mask>
     <mask>*.cs</mask>
     <mask>*.cs</mask>
+    <mask>*.html</mask>
+    <mask>*.html</mask>
+    <mask>*.resx</mask>
+    <mask>*.resx</mask>
     <mask>*.js</mask>
-    <mask>*.html</mask>
-    <mask>*.html</mask>
-    <mask>*.resx</mask>
-    <mask>*.resx</mask>
   </component>
 </application>
