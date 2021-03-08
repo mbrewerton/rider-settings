@@ -29,8 +29,8 @@
     <mask>*.cs</mask>
     <mask>*.html</mask>
     <mask>*.html</mask>
-    <mask>*.resx</mask>
-    <mask>*.resx</mask>
     <mask>*.js</mask>
+    <mask>*.resx</mask>
+    <mask>*.resx</mask>
   </component>
 </application>
