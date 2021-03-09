@@ -2,6 +2,38 @@
   <component name="PluginAdvertiserExtensions">
     <option name="localState">
       <map>
+        <entry key="*.9.png">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.android" />
+              <option name="myPluginName" value="Rider Xamarin Android Support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.aab">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.android" />
+              <option name="myPluginName" value="Rider Xamarin Android Support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.aar">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.android" />
+              <option name="myPluginName" value="Rider Xamarin Android Support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.aidl">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.android" />
+              <option name="myPluginName" value="Rider Xamarin Android Support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.androidproj">
           <value>
             <plugin>
@@ -236,6 +268,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.class">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.android" />
+              <option name="myPluginName" value="Rider Xamarin Android Support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.coffee">
           <value>
             <plugin>
@@ -359,6 +399,14 @@
               <option name="myPluginId" value="spy-js" />
               <option name="myPluginName" value="Spy-js" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.dex">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.android" />
+              <option name="myPluginName" value="Rider Xamarin Android Support" />
             </plugin>
           </value>
         </entry>
@@ -880,6 +928,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.java">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.android" />
+              <option name="myPluginName" value="Rider Xamarin Android Support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.jbig2">
           <value>
             <plugin>
@@ -1042,6 +1098,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.li">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.android" />
+              <option name="myPluginName" value="Rider Xamarin Android Support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.litcoffee">
           <value>
             <plugin>
@@ -1111,6 +1175,14 @@
               <option name="myPluginId" value="com.intellij.resharper.unity" />
               <option name="myPluginName" value="Unity Support" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.android" />
+              <option name="myPluginName" value="Rider Xamarin Android Support" />
             </plugin>
           </value>
         </entry>
@@ -1217,6 +1289,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.otf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.android" />
+              <option name="myPluginName" value="Rider Xamarin Android Support" />
             </plugin>
           </value>
         </entry>
@@ -1406,6 +1486,14 @@
               <option name="myPluginId" value="com.intellij.resharper.unity" />
               <option name="myPluginName" value="Unity Support" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pro">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.android" />
+              <option name="myPluginName" value="Rider Xamarin Android Support" />
             </plugin>
           </value>
         </entry>
@@ -1667,6 +1755,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.snippet">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.android" />
+              <option name="myPluginName" value="Rider Xamarin Android Support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.snk">
           <value>
             <plugin>
@@ -1856,6 +1952,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.trace">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.android" />
+              <option name="myPluginName" value="Rider Xamarin Android Support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ts">
           <value>
             <plugin>
@@ -1889,6 +1993,14 @@
               <option name="myPluginId" value="org.jetbrains.fortea" />
               <option name="myPluginName" value="ForTea" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ttf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.android" />
+              <option name="myPluginName" value="Rider Xamarin Android Support" />
             </plugin>
           </value>
         </entry>
@@ -2504,6 +2616,30 @@
             </plugin>
           </value>
         </entry>
+        <entry key="multidex-config.txt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.android" />
+              <option name="myPluginName" value="Rider Xamarin Android Support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="proguard-*.txt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.android" />
+              <option name="myPluginName" value="Rider Xamarin Android Support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="proguard.cfg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.android" />
+              <option name="myPluginName" value="Rider Xamarin Android Support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="tsconfig.app.json">
           <value>
             <plugin>
@@ -2744,6 +2880,11 @@
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
                     </value>
                   </entry>
+                  <entry key="XamarinAndroidProject">
+                    <value>
+                      <FeaturePluginData displayName="Xamarin.Android" pluginName="Rider Xamarin Android Support" pluginId="com.jetbrains.rider.android" />
+                    </value>
+                  </entry>
                   <entry key="XamarinIOSProject">
                     <value>
                       <FeaturePluginData displayName="Xamarin.iOS" pluginName="IDEA CORE" pluginId="com.intellij" />
@@ -2791,7 +2932,27 @@
         </entry>
         <entry key="com.intellij.facetType">
           <value>
-            <FeaturePluginsList />
+            <FeaturePluginsList>
+              <option name="featureMap">
+                <map>
+                  <entry key="android">
+                    <value>
+                      <FeaturePluginData displayName="Android" pluginName="Rider Xamarin Android Support" pluginId="com.jetbrains.rider.android" />
+                    </value>
+                  </entry>
+                  <entry key="apk">
+                    <value>
+                      <FeaturePluginData displayName="APK" pluginName="Rider Xamarin Android Support" pluginId="com.jetbrains.rider.android" />
+                    </value>
+                  </entry>
+                  <entry key="native-android-gradle">
+                    <value>
+                      <FeaturePluginData displayName="Native-Android-Gradle" pluginName="Rider Xamarin Android Support" pluginId="com.jetbrains.rider.android" />
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </FeaturePluginsList>
           </value>
         </entry>
       </map>
