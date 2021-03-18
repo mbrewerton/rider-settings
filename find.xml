@@ -3,6 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -21,7 +22,6 @@
     <mask>*.config</mask>
     <mask>*.cshtml</mask>
     <mask>*.html,*.cshtml</mask>
-    <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.json</mask>
     <mask>*.scss</mask>
@@ -32,5 +32,6 @@
     <mask>*.cs</mask>
     <mask>*.cs</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
