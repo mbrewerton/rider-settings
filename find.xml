@@ -3,6 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.fr.resx" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -16,7 +17,6 @@
     <mask>*.html,*.ts</mask>
     <mask>*.js,*.html</mask>
     <mask>*.nl.resx</mask>
-    <mask>*.fr.resx</mask>
     <mask>*.html,*.js</mask>
     <mask>*.config</mask>
     <mask>*.cshtml</mask>
@@ -30,5 +30,6 @@
     <mask>*.html</mask>
     <mask>*.resx</mask>
     <mask>*.resx</mask>
+    <mask>*.fr.resx</mask>
   </component>
 </application>
