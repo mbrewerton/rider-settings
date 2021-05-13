@@ -23,6 +23,7 @@
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="DatabaseView.OpenDdlInConsole" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
@@ -39,8 +40,14 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="ReSharperGotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+  </action>
   <action id="ShowGulpTasks">
     <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="shift ctrl alt b" />
   </action>
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="shift ctrl alt z" />
