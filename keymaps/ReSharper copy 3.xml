@@ -47,6 +47,9 @@
   <action id="ShowGulpTasks">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
+  </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="shift ctrl alt b" />
   </action>
