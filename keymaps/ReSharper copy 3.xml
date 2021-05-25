@@ -6,6 +6,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt 3" />
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
@@ -18,10 +19,12 @@
   </action>
   <action id="CloneCaretAboveWithVirtualSpace" />
   <action id="CloneCaretBelowWithVirtualSpace" />
+  <action id="CodeStream.AddComment" />
   <action id="Console.TableResult.NavigateForeignAction">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="DatabaseView.OpenDdlInConsole" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
@@ -37,6 +40,18 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
     <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="ReSharperGotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+  </action>
+  <action id="ShowGulpTasks">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="shift ctrl alt b" />
   </action>
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="shift ctrl alt z" />
