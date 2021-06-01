@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'API'" />
-    <option name="defaultScopeName" value="Project 'API'" />
-    <option name="SEARCH_SCOPE" value="Project 'API'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -26,8 +29,8 @@
     <mask>*.fr.resx</mask>
     <mask>*.config</mask>
     <mask>*.ts</mask>
-    <mask>*.js</mask>
     <mask>*.cs</mask>
+    <mask>*.js</mask>
     <mask>*.html</mask>
     <mask>*.html</mask>
   </component>
