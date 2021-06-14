@@ -1,0 +1,16 @@
+<toolSet name="Powershell Scripts">
+  <tool name="Catalogue Powershell" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="powershell" />
+      <option name="PARAMETERS" value=".\Launch_Catalogue.ps1" />
+      <option name="WORKING_DIRECTORY" value="C:/Projects/Scripts" />
+    </exec>
+  </tool>
+  <tool name="Launch Darwin Suppliers" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="powershell" />
+      <option name="PARAMETERS" value=".\LaunchSupplierPortal.ps1" />
+      <option name="WORKING_DIRECTORY" value="C:/Projects/Scripts" />
+    </exec>
+  </tool>
+</toolSet>
