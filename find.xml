@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
@@ -21,16 +19,16 @@
     <mask>*.html,*.js</mask>
     <mask>*.cshtml</mask>
     <mask>*.html,*.cshtml</mask>
-    <mask>*.scss</mask>
     <mask>*.json</mask>
-    <mask>*.resx</mask>
-    <mask>*.resx</mask>
     <mask>*.fr.resx</mask>
     <mask>*.config</mask>
-    <mask>*.html</mask>
     <mask>*.ts</mask>
+    <mask>*.resx</mask>
+    <mask>*.resx</mask>
+    <mask>*.scss</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
+    <mask>*.html</mask>
     <mask>*.cs</mask>
+    <mask>*.js</mask>
   </component>
 </application>
