@@ -72,6 +72,11 @@
                       <FeaturePluginData displayName="Firefox Remote" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="GODOT_DEBUG_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Start and Debug" pluginName="Godot Support" pluginId="com.intellij.rider.godot" />
+                    </value>
+                  </entry>
                   <entry key="HttpClient.HttpRequestRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="HTTP Request" pluginName="HTTP Client" pluginId="com.jetbrains.restClient" bundled="true" />
@@ -147,9 +152,19 @@
                       <FeaturePluginData displayName="Native Executable" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="RunUnityExe">
+                    <value>
+                      <FeaturePluginData displayName="Standalone Player" pluginName="Unity Support" pluginId="com.intellij.resharper.unity" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="TSqltConfigurationType">
                     <value>
                       <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="UNITY_DEBUG_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Attach to Unity Editor" pluginName="Unity Support" pluginId="com.intellij.resharper.unity" bundled="true" />
                     </value>
                   </entry>
                   <entry key="UtPlSqlConfigurationType">
